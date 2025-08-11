@@ -1,0 +1,9 @@
+# R файлы
+.RData
+.Rhistory
+.Rproj.user/
+
+# Временные файлы
+*~
+*.tmp
+.DS_Store

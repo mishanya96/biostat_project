@@ -1,0 +1,7 @@
+Package: biostat_project
+Title: Биостатистический проект
+Version: 0.1.0
+Author: Mikhail
+Description: Простой проект для биостатистического анализа.
+License: MIT
+Encoding: UTF-8
