@@ -1,4 +1,4 @@
 # data.csv
 id,age,gender,EDSS,AQP4
 1,45,Male,4.5,positive
-2,60,Female,5.5,negative
+2,50,Female,5.5,negative
